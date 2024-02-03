@@ -1,0 +1,16 @@
+{
+  "name": "movieapi_project",
+  "version": "1.0.0",
+  "description": "Web Api for Movie detail. Basicallyto  fetch data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hannan Butt",
+  "license": "None",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "epress": "^0.0.1-security",
+    "express": "^4.18.2"
+  }
+}
